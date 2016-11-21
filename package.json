@@ -1,0 +1,14 @@
+{
+  "name":         "masters-of-rebirth",
+  "version":      "0.1.0",
+  "description":  "The core engine for Masters of Rebirth",
+  "main":         "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository":   "https://github.com/FalconPilot/tabletop-strategy",
+  "license":      "GPL3",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
